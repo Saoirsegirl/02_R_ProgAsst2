@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following program will ingest a matrix of data and "cache" it to make it
+## available for quicker access during repetative calculations within another
+## function.
 
 ## Write a short comment describing this function
 
